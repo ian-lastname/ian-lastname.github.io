@@ -17,5 +17,5 @@ Essentially, we split up the work into different parts of the brain. My role was
 
 The project taught me a lot about the importance of coordination and team work. Our group had pretty good coordination, and so we got the project done fairly quickly with a good grade. I suppose I also learned how to work as a team better.
 
-<img class="ui image" src="{{ site.baseurl }}/images/brain.jpg" width="100" height="100"> <img class="ui image" src="{{ site.baseurl }}/images/brain2.jpg" width="100" height="100">
+<img class="ui image" src="{{ site.baseurl }}/images/brain.jpg" width="450" height="450"> <img class="ui image" src="{{ site.baseurl }}/images/brain2.jpg" width="450" height="450">
 
