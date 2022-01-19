@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/gongaga.png
 title: Pastel Drawing
 permalink: projects/pasteldrawing
 # All dates must be YYYY-MM-DD format!
