@@ -17,6 +17,10 @@ summary: A text-based adventure game I developed for ICS 111
   <img class="ui image" src="../images/Scene_SpoiledMilk.png">
    <img class="ui image" src="../images/scene_gameover.png">
 </div>
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/Scene_SpoiledMilk.png">
+   <img class="ui image" src="../images/scene_gameover.png">
+</div>
 
 For ICS 111, my professor decided that it would be fun to have his students create a game as a final project for the semester. The kind of game was up to the student; as long as you could create the game within two weeks, you were allowed to choose whatever genre you wanted. Originally, I wanted to create a turn-based RPG for the project; but the more I thought about it, I realized it was a terrible idea considering that I came into this class knowing absolutely nothing about coding beforehand. So, I decided that a text-based adventure game would be more suitable for someone with my experience. I titled the game "Get Milk!" and the your objective is to get milk for your cereal. It plays out like any typical text-based adventure, and there's six endings. Everyone had to work independently, there weren't any groups.
 
