@@ -12,7 +12,7 @@ labels:
 summary: A psychology project about the parts of the human brain.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/brain.jpg"> <img class="ui image" src="{{ site.baseurl }}/images/brain2.jpg">
 
 
 For High School Psychology, I had a group project where we needed to make a museum exhibit for a part of the human body. My group got assigned the human brain, and so we had to make some sort of model of a brain to showcase to the class. We also had to do a presentation while showcasing it, though I might be misremembering things since that happened like two years ago. 
