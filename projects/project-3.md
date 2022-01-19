@@ -5,7 +5,7 @@ image: images/cotton-square.png
 title: A Presentation About the Brain
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2019-11-24
 labels:
   - Psychology
   - Model
@@ -14,48 +14,10 @@ summary: A psychology project about the parts of the human brain.
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
-gONGAGA
 
-To give you a flavor of the game, here is an excerpt from one run:
+For High School Psychology, I had a group project where we needed to make a museum exhibit for a part of the human body. My group got assigned the human brain, and so we had to make some sort of model of a brain to showcase to the class. We also had to do a presentation while showcasing it, though I might be misremembering things since that happened like two years ago. 
 
-<hr>
+Essentially, we split up the work into different parts of the brain. My role was to create the cerebellum part of our exhibit. I did the research on the cerebellum, and I created a model of it using cardboard and newspaper. The cardboard was used to set up the structure of the model, and the newspaper was used to create the surface or the 'skin'. Then I painted it pink and honestly, it didn't turn out that bad. I mean, it could've been better, and there probably was a better way of doing it. But the important thing is that you could tell what it was just by looking at it.
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+The project taught me a lot about the importance of coordination and team work. Our group had pretty good coordination, and so we got the project done fairly quickly with a good grade. I suppose I also learned how to work as a team better.
 
