@@ -12,7 +12,7 @@ labels:
 summary: A chalk pastel drawing I made for High School drawing class
 ---
 
-<img class="ui medium right floated rounded image" src="../images/drawing.png">
+<img class="ui medium right floated rounded image" src="../images/drawing.jpg">
 
 For drawing class we had to learn how to use various different mediums of art. One of them was coloring and blending with chalk pastel. The project was simple: find a portrait of someone and make a drawing of it colored with chalk pastel. There really isn't much else to it, just apply what you learned from previous projects to this one.
 
