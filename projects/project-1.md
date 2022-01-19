@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/Scene_SpoiledMilk.png
 title: Get Milk!
-permalink: projects/micromouse
+permalink: projects/getmilk
 # All dates must be YYYY-MM-DD format!
 date: 2020-11-29
 labels:
