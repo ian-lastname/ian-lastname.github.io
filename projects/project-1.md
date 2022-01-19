@@ -26,5 +26,7 @@ Since this was an independent project, I was in charge of everything in the maki
 
 From working on my game, I've obtained some experience with working with the Java GUI system (sort of). I learned how to illustrate imported images in my code, creating and using buttons for user input, and changing the properties of various things like text. Other than that, there wasn't much else I gained from this. I would put some sort of link to my game, but unfortunately all the code for it is long gone now. At least I still have the game assets though.
 
+<img class="ui image" src="../images/Scene_Store.png">
+
 
 
