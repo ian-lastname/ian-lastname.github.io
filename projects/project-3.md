@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/cerebellum.jpg
-title: A Presentation About the Brain
+title: A Brain Exhibit
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
 date: 2019-11-24
