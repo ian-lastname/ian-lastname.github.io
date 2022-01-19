@@ -17,9 +17,8 @@ summary: A text-based adventure game I developed for ICS 111
   <img class="ui image" src="../images/Scene_SpoiledMilk.png">
    <img class="ui image" src="../images/scene_gameover.png" width="300" height="300">
 </div>
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/Scene_SpoiledMilk.png">
-   <img class="ui image" src="../images/scene_gameover.png">
+<div align="center">
+  <img class="ui image" src="../images/Scene_StealCow.png" width="300" height="300">
 </div>
 
 For ICS 111, my professor decided that it would be fun to have his students create a game as a final project for the semester. The kind of game was up to the student; as long as you could create the game within two weeks, you were allowed to choose whatever genre you wanted. Originally, I wanted to create a turn-based RPG for the project; but the more I thought about it, I realized it was a terrible idea considering that I came into this class knowing absolutely nothing about coding beforehand. So, I decided that a text-based adventure game would be more suitable for someone with my experience. I titled the game "Get Milk!" and the your objective is to get milk for your cereal. It plays out like any typical text-based adventure, and there's six endings. Everyone had to work independently, there weren't any groups.
@@ -30,7 +29,7 @@ From working on my game, I've obtained some experience with working with the Jav
 
 If you are curious about how the game is supposed to go, see the image below. It's a checklist I made during the time I was working on the game. I wasn't planning on showing this to anyone at the time, so I didn't care about making it neat.
 
-<img class="ui image" src="../images/GameMap.PNG">
+<img class="ui image" src="../images/GameMap.PNG" align="center">
 
 
 
