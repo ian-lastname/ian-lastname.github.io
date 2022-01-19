@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Scene_SpoiledMilk.png
+image: images/Scene_Store.png
 title: Get Milk!
 permalink: projects/getmilk
 # All dates must be YYYY-MM-DD format!
