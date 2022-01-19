@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cerebellum.png
+image: images/cerebellum.jpg
 title: A Presentation About the Brain
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
