@@ -2,24 +2,20 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+title: Pastel Drawing
+permalink: projects/pasteldrawing
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 19-11-14
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Sketch
+  - Portrait
+summary: A chalk pastel drawing I made for High School drawing class
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+For drawing class we had to learn how to use various different mediums of art. One of them was coloring and blending with chalk pastel. The project was simple: find a portrait of someone and make a drawing of it colored with chalk pastel. There really isn't much else to it, just apply what you learned from previous projects to this one.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+This was a solo project, so I had to do everything on my own. I found a portrait photo of a woman on google images and used it as a reference for my project. I sketched out her face until I felt that it turned out right, then I tried to color it in with various chalk pastels. The last part was a hassle and I made some mistakes that I couldn't easily fix; it resulted with the left eye looking longer than it should've looked. Overall, I was pretty happy with how it looked; that was until I messed it up when I had to spray it with hair spray to keep the dust from getting everywhere. I am still mad about that to this day.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Doing this project taught me a valuable lesson about sticking with a project to completion. Whenever I worked on coloring the drawing, I always had the thought that it didn't look right. But, with perserverance (and the fact that it was too late to start over), I ended up with something that I'm kind of proud of.
