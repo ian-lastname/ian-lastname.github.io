@@ -14,8 +14,8 @@ summary: A text-based adventure game I developed for ICS 111
 ---
 
 <div>
-  <img class="ui image" src="../images/Scene_SpoiledMilk.png" width="400" height="400">
-   <img class="ui image" src="../images/scene_gameover.png">
+  <img class="ui image" src="../images/Scene_SpoiledMilk.png">
+   <img class="ui image" src="../images/scene_gameover.png" width="300" height="300">
 </div>
 <div class="ui small rounded images">
   <img class="ui image" src="../images/Scene_SpoiledMilk.png">
