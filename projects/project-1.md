@@ -13,7 +13,7 @@ labels:
 summary: A text-based adventure game I developed for ICS 111
 ---
 
-<div class="ui small rounded images">
+<div>
   <img class="ui image" src="../images/Scene_SpoiledMilk.png" width="400" height="400">
    <img class="ui image" src="../images/scene_gameover.png">
 </div>
