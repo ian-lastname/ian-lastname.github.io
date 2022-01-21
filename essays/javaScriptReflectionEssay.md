@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Java But It's a Script HAHAHA (No That's Not Funny)
+title: Java But It's a Script HAHAHA (No That's Not Funny At All)
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-18
 labels:
