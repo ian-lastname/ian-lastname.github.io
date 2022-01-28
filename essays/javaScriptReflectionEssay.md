@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Java But It's a Script HAHAHA (No That's Not Funny At All)
+title: The Learning of a New Language
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-18
 labels:
