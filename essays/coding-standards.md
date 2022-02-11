@@ -28,6 +28,7 @@ side, getting anything else is migraine-inducing.
 Now you're probably wondering, "what's with that part of the title?." Well, I got a potentially funny story for you. You see, the legend in question is actually me, and I didn't read
 the directions for installing ESLint. Now, it wasn't so bad because I 'fixed' my improper installation of it on the 8th of February, so I was ready to take the actual WOD; or so 
 I thought. On the day of the actual WOD, I got an error when trying to install ESLint onto my project; a mistake that costed me 2 minutes of my precious time for solving the WOD.
+<img class="ui left circle floated image" src="../images/ESLintPic1.png">
 Now, I was extremely close to finishing it, but unfortunately I ran out of time. Maybe if I had the 2 minutes that got wasted, I could've figured out what I did wrong in time; and
 it was an extremely simple fix too. So yeah, I'm pretty miffed about this whole ordeal.
 
