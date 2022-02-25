@@ -21,10 +21,10 @@ Also, it doesn't appear to be as sophisticated as other UI Frameworks. I've come
 <div class="ui transparent menu">
   <div class="ui two column grid">
     <div class="column">
-      <img class="ui image" src="../images/Original.jpg" width="250" height="250">
+      <img class="ui image" src="../images/Original.png" width="250" height="250">
     </div>  
     <div class="column">
-      <img class="uiimage" src="../images/Remade.jpg" width="250" height="250">
+      <img class="uiimage" src="../images/Remade.png" width="250" height="250">
     </div>  
   </div>
 </div>
