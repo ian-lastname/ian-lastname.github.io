@@ -17,3 +17,14 @@ I think learning how to use UI Frameworks are an extremely worthwhile endeavour 
 Going by what I said before, I think Semantic UI is something that will help you design websites more efficiently. Using any form of UI Framework is a direct upgrade from using pure html and css, and Semantic UI is no exception to this. This framework allows users to use things like grids, menus, containers, and more to format your website; effects that can be recreated with pure html and css, but requiring much more effort than just using the framework. However, I do think that it has some of its own issues. For instance, using selectors at times is just plain frustrating because sometimes the changes to go through, even if you path it exactly to where you want the selector to be.
 
 Also, it doesn't appear to be as sophisticated as other UI Frameworks. I've come to this conclusion while doing the "My Choice" practice wod, an assignment where I chose to recreate the Zomboid website homepage. I will admit, I kind of had to rush because my laptop was going through issues at the time, but I was unable to recreate some particular elements found in the original website; as seen in the pictures below. One example of this is that I was unable to make the three buttons on the middle section of the website to be the same size as in the original, and I was unable to put pictures in the correct position within said buttons.
+
+<div class="ui menu">
+  <div class="ui two column grid">
+    <div class="column">
+      <img class="ui left circle floated image" src="../images/Original.jpg" width="250" height="250">
+    </div>  
+    <div class="column">
+      <img class="ui right circle floated image" src="../images/Remade.jpg" width="250" height="250">
+    </div>  
+  </div>
+</div>
