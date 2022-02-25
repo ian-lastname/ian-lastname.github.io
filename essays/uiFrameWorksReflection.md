@@ -24,7 +24,7 @@ Also, it doesn't appear to be as sophisticated as other UI Frameworks. I've come
       <img class="ui image" src="../images/Original.png">
     </div>  
     <div class="column">
-      <img class="uiimage" src="../images/Remade.png">
+      <img class="ui image" src="../images/Remade.png">
     </div>  
   </div>
 </div>
