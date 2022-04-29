@@ -9,7 +9,7 @@ labels:
   - Javascript
   - Design Patterns
 ---
-##The Power of Using Templates
+## The Power of Using Templates
 
   Often times, when I want to make something, I always want to make it the best way I can; atleast, to a degree. Though, figuring out how to do such a thing could take
 a lot of time. On top of that, often times I find myself doing things one way, but then finding out that someone else did it in a much better way than myself.
@@ -22,7 +22,7 @@ So in order to circumvent this, I always talk like how someone else would talk. 
 the person before me talks when I'm ordering my food. Now whenever I order food, I just use the same sentence structure and such. Doing this makes it so that I don't
 panic about messing up what I'm going to say to the cashier when it's finally my turn; yes, this used to be a problem for me and yes, that's sad.
 
-##Why Am I Talking About Templates. What Am I, An Idiot?
+## Why Am I Talking About Templates. What Am I, An Idiot?
 
   So why am I talking about templates? Well, that's because templates are basically what design patterns are in coding. Essentially, you follow a coding template, 
 then you can apply the same template when trying to make other code. One could also attempt to dissect the template in order to learn something from it and apply 
