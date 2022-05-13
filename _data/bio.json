@@ -34,12 +34,12 @@
       ]
     },
     {
-      "name": "drawing",
+      "name":"drawing",
       "keywords": [
       ]
     },
     {
-      "name": "coding",
+      "name":"coding",
       "keywords": [
       ]
     } 
@@ -66,9 +66,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2024)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2020-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -76,16 +76,20 @@
     }
   ],
   "work": [
-    {
-    },
-    {
-    }
+    "N/A",
   ],
   "volunteer": [
     {
+      "N/A"
     }
   ],
   "awards": [
+    {
+      "UH Manoa Academic Merit Scholarship"
+    },
+    {
+      "Valedictorian of Waipahu High School"
+    },
   ],
   "references": [
     {
