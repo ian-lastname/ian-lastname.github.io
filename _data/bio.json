@@ -29,17 +29,17 @@
   },
   "interests": [
     {
-      "name": "video games",
+      "name": "Video Games",
       "keywords": [
       ]
     },
     {
-      "name":"drawing",
+      "name":"Drawing",
       "keywords": [
       ]
     },
     {
-      "name":"coding",
+      "name":"Coding",
       "keywords": [
       ]
     } 
@@ -76,19 +76,21 @@
     }
   ],
   "work": [
-    "N/A",
+    {
+      "N/A",
+    },
   ],
   "volunteer": [
     {
-      "N/A"
+      "N/A",
     }
   ],
   "awards": [
     {
-      "UH Manoa Academic Merit Scholarship"
+      "UH Manoa Academic Merit Scholarship",
     },
     {
-      "Valedictorian of Waipahu High School"
+      "Valedictorian of Waipahu High School",
     },
   ],
   "references": [
