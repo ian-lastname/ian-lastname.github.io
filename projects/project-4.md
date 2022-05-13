@@ -24,3 +24,11 @@ For our final project, we had to group up with three others to develop a website
   <li>Design Patterns</li>
   <li>Deployment</li>
 </ul>
+<img class="ui right floated image" src="{{ site.baseurl }}/images/Essay_Picture.png">
+Here is a sample image of the website, specifically the search page. Please don't mind the images I used for the accounts, I was having a bit of fun when testing the website out locally.
+
+## Contributions
+
+We assigned ourselves different aspects of the website amongst the four of us, and it was more or less pretty equal. At the very least, we each were assigned two main things to do. Myself in particular was in charge of creating the landing page and the user interface page. The landing page is just the landing page, and the user interface page is where the user can look at their own account information that others can see. The landin page was simple enough, but the user interface page was a bit tricky since I had to actually create a function to get the correct account information. In the end, I managed to do it and it works just fine.
+
+<a href="https://mox-amber.github.io/">Link to our github.io page</a>
