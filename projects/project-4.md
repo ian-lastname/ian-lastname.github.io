@@ -24,7 +24,7 @@ For our final project, we had to group up with three others to develop a website
   <li>Design Patterns</li>
   <li>Deployment</li>
 </ul>
-<img class="ui right floated image" src="{{ site.baseurl }}/images/Essay_Picture.png">
+<img class="ui right floated image" src="{{ site.baseurl }}/images/Capture.PNG">
 Here is a sample image of the website, specifically the search page. Please don't mind the images I used for the accounts, I was having a bit of fun when testing the website out locally.
 
 ## Contributions
