@@ -28,4 +28,8 @@ The image above is that of a logo of a game called "Cataclysm: Dark Days Ahead".
 I always wondered how websites were made, and thanks to this class I now know how it's done. I have to say, it is actually quite simple to do. One can easily make a website using something called html. The websites you can make with html are usually gonna end up looking really basic, that is where user interface frameworks come into place. With user interface frameworks, one can create much more sophisticated websites. An example of such a thing is a framework called Semantic UI, something that I used to make a websites with other students.  While making websites and using UI frameworks are simple enough, it is still extremely time consuming to make it look really nice and functional. I went into this thinking that it would be easy, but to my dismay it is a lot more tedious than I anticipated. So overall, like most things, software development is definitely possible to do on your own. However without and help or collaboration, it can get overwhelming.
 
 <img class="ui centered image" src="../images/Reflection!!@@!.png">
-The image above is me getting overwhelmed trying to make a copy of another website through Semantic UI... It was much harder than it looked.
+The image above is me getting overwhelmed trying to make a copy of another website through Semantic UI... It was much harder than I thought it would be.
+
+## My Overall Takeaways?
+
+Overall from what I've experienced in this class, software development is something that takes a lot of time, planning, and teamwork to do. It is something that I can definitely do, though I'll really have to build up my skills if I every want to get comfortable doing it. Perhaps I will get a job within this field, though only the future can tell.
