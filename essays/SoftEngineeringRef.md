@@ -8,7 +8,7 @@ labels:
   - Software Engineering
   - Reflection of Learning
 ---
-## A Rollercoaster of a Year
+## A Rollercoaster of a Semester
 
 When I initially signed up for this course, I thought in my head, "hey, this class is gonna be pretty fun and relaxing; how hard can it be?". Well, my thoughts were
 half correct. The course was indeed a bit fun; making websites and seeing your program go into fruition was pretty satisfying. However, it would get extremely
