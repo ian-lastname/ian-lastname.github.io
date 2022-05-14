@@ -1,12 +1,12 @@
 ---
 layout: essay
 type: essay
-title: My Desire of Being a Programmer
+title: Engineering: The Soft Kind That Is
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-19
 labels:
   - Software Engineering
-  - Introduction
+  - End of Year Reflection
 ---
 ## A Rollercoaster of a Semester
 
