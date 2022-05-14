@@ -72,25 +72,24 @@
       "endDate": "Present",
       "gpa": "",
       "courses": [
+        "ICS 111: Intro to CS I",
+        "ICS 141: Discrete Mathematics II",
+        "ICS 211: Intro to CS II",
+        "ICS 212: ICS Scripting",
+        "ICS 241: Discrete Mathematics II",
+        "ICS 311: Algorithms",
+        "ICS 314: Software Engineering I",
       ]
-    }
-  ],
-  "work": [
-    {
-      "name": "N/A",
-    },
-  ],
-  "volunteer": [
-    {
-      "name": "N/A",
     }
   ],
   "awards": [
     {
-      "name": "UH Manoa Academic Merit Scholarship",
+      "title": "UH Manoa Academic Merit Scholarship",
+      "date": "2020-08-01",
     },
     {
-      "name": "Valedictorian of Waipahu High School",
+      "title": "Valedictorian of Waipahu High School",
+      "date": "2020-05-29",
     },
   ],
   "references": [
